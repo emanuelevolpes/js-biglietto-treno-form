@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* 
+----------
+main
+----------
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 3.125rem;
+}
+
+#container {
+    background-color: #b91547;
+    max-width: 64.3125rem;
+    margin: 0 auto;
+}
